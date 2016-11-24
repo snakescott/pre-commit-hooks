@@ -29,6 +29,7 @@ setup(
         'flake8==3.2.1',
         'argparse',
         'autopep8==1.2.4',
+        'pep8-naming==0.4.1',
         'pyyaml',
         'simplejson',
         'six',
